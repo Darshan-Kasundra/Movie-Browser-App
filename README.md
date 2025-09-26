@@ -1,1 +1,1 @@
-# Movie-Browser-App
+Movie Browsing
